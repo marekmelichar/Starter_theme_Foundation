@@ -62,3 +62,7 @@
 .off-canvas {
   background-color: $off-canvas-background;
 }
+
+*:focus {
+  outline: none;
+}
